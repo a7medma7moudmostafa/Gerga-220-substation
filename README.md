@@ -12,11 +12,11 @@
 
 | 📂 الفولدر | 📝 وصف المحتوى |
 | :--- | :--- |
-| [**01_Switchyard_Components**](./01_Switchyard_Components) | توثيق معدات الدخول والخروج (مانعات الصواعق، محولات الجهد والتيار، السكاكين). |
-| [**02_Circuit_Breakers**](./02_Circuit_Breakers) | تحليل قواطع التيار (`Live-Tank` و `Dead-Tank`) وآلية إخماد الشرارة بغاز `SF6`. |
-| [**03_Power_Transformers**](./03_Power_Transformers) | التشريح الخارجي لمحولات القوى الضخمة، قدراتها المختلفة، وأنظمة التبريد. |
-| [**04_Protection_Systems**](./04_Protection_Systems) | استعراض فلسفة الوقاية (`Main vs. Backup`) وأنواعها المخصصة للمحطات. |
-| [**05_Auxiliary_and_Control**](./05_Auxiliary_and_Control) | شرح الأنظمة المساعدة مثل غرف البطاريات (`DC Systems`)، الحريق، و(`SCADA`). |
+| [**01_Switchyard_Components**](./01_Switchyard_Components.md) | توثيق معدات الدخول والخروج (مانعات الصواعق، محولات الجهد والتيار، السكاكين). |
+| [**02_Circuit_Breakers**](./02_Circuit_Breakers.md) | تحليل قواطع التيار (`Live-Tank` و `Dead-Tank`) وآلية إخماد الشرارة بغاز `SF6`. |
+| [**03_Power_Transformers**](./03_Power_Transformers.md) | التشريح الخارجي لمحولات القوى الضخمة، قدراتها المختلفة، وأنظمة التبريد. |
+| [**04_Protection_Systems**](./04_Protection_Systems.md) | استعراض فلسفة الوقاية (`Main vs. Backup`) وأنواعها المخصصة للمحطات. |
+| [**05_Auxiliary_and_Control**](./05_Auxiliary_and_Control.md) | شرح الأنظمة المساعدة مثل غرف البطاريات (`DC Systems`)، الحريق، و(`SCADA`). |
 
 ---
 
