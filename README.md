@@ -24,7 +24,7 @@
 يحتوي مجلد [**`assets/`**](./assets) على جميع الصور الميدانية، المخططات الخطية (`Single Line Diagrams`)، وقراءات لوحات بيانات المعدات (`Nameplates`) التي تم التقاطها وتحليلها خلال فترة التدريب.
 
 ### 🔗 المراجع الإضافية
-* [https://drive.google.com/drive/folders/1WTGA2hPEaHT0ncW6XteWZuuSxyhhuzF0?usp=sharing](#)
+* [ضع رابط Google Drive هنا للرجوع إلى المذكرات الأصلية](https://drive.google.com/drive/folders/1WTGA2hPEaHT0ncW6XteWZuuSxyhhuzF0?usp=sharing)
 
 ---
 **توثيق:** أحمد محمود 
