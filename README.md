@@ -1,13 +1,22 @@
-# ⚡محطة محولات جرجا (220 كيلوفولت)
+<div align="center">
 
-<div dir="ltr" align="center">
+![Gerga Substation Cover](https://via.placeholder.com/1000x300/0d1117/00aaff?text=Gerga+220kV+Substation+Field+Training)
+
+# ⚡ محطة محولات جرجا (220 كيلوفولت)
+
+<div dir="ltr">
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Field](https://img.shields.io/badge/Field-Electrical_Engineering-blue)
 ![Documentation](https://img.shields.io/badge/Documentation-Arabic-orange)
 
-**English Abstract:**
-*This repository provides comprehensive engineering documentation of the practical field training at the Gerga 220/66/11 kV Substation. It bridges theoretical electrical power engineering concepts with real-world applications, covering switchyard components, SF6 circuit breakers, power transformers, protection philosophies, and SCADA control systems.*
+![Repo Size](https://img.shields.io/github/repo-size/a7medma7moudmostafa/REPO_NAME)
+![Last Commit](https://img.shields.io/github/last-commit/a7medma7moudmostafa/REPO_NAME)
+
+> **English Abstract:**
+> *This repository provides comprehensive engineering documentation of the practical field training at the Gerga 220/66/11 kV Substation. It bridges theoretical electrical power engineering concepts with real-world applications, covering switchyard components, SF6 circuit breakers, power transformers, protection philosophies, and SCADA control systems.*
+
+</div>
 </div>
 <br>
 
@@ -22,7 +31,7 @@ It covers the main equipment, protection systems, control systems, and auxiliary
 <div dir="rtl">
 
 ### 📌 عن الريبو
-يُعد هذا المستودع توثيقاً هندسياً وعملياً شاملاً للتدريب الميداني الخاص بي في **محطة محولات جرجا (220/66/11 كيلوفولت)**. يهدف هذا العمل إلى ربط المفاهيم النظرية في هندسة القوى الكهربائية بالتطبيق العملي في أرض الموقع، من خلال تشريح معدات ساحة المفاتيح (`Switchyard`)، وتحليل أنظمة الوقاية (`Protection Systems`)، واستعراض غرف التحكم (`Control Rooms`).
+> يُعد هذا المستودع توثيقاً هندسياً وعملياً شاملاً للتدريب الميداني الخاص بي في **محطة محولات جرجا (220/66/11 كيلوفولت)**. يهدف هذا العمل إلى ربط المفاهيم النظرية في هندسة القوى الكهربائية بالتطبيق العملي في أرض الموقع، من خلال تشريح معدات ساحة المفاتيح (`Switchyard`)، وتحليل أنظمة الوقاية (`Protection Systems`)، واستعراض غرف التحكم (`Control Rooms`).
 
 ---
 
@@ -51,9 +60,12 @@ It covers the main equipment, protection systems, control systems, and auxiliary
 
 <div dir="ltr">
 
-### ⚠️ Disclaimer
+<details>
+<summary><b>⚠️ Disclaimer</b></summary>
+<br>
 This repository is intended for educational and documentation purposes.
 The information presented is based on the training sessions, field observations, and personal notes.
+</details>
 
 ### 👨‍💻 About the Author
 **Ahmed Mahmoud Mostafa**
@@ -65,7 +77,10 @@ Electrical Engineering, Communications and Electronics student
 
 <div dir="rtl">
 
-### 📜License
+<details>
+<summary><b>📜 (License)</b></summary>
+<br>
 هذا التوثيق مفتوح المصدر ومتاح لدعم الزملاء والطلاب في المجال الهندسي لتبادل المعرفة ونقل الخبرات العملية.
+</details>
 
 </div>
