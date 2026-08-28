@@ -1,6 +1,6 @@
 <div align="center">
 
-![Gerga Substation Cover](https://via.placeholder.com/1000x300/0d1117/00aaff?text=Gerga+220kV+Substation+Field+Training)
+![Gerga Substation Cover](assets/cover.png)
 
 # ⚡ محطة محولات جرجا (220 كيلوفولت)
 
