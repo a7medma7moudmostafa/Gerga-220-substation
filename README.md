@@ -2,7 +2,6 @@
 
 # ⚡محطة محولات جرجا (220 كيلوفولت)
 
-<!-- قسم الشارات والملخص الإنجليزي -->
 <div dir="ltr" align="center">
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
@@ -44,12 +43,11 @@
 
 ---
 
-<!-- قسم المؤلف والرخصة -->
 ### (About the Author 👨‍💻 )
-**أحمد محمود مصطفي**
+**Ahmed Mahmoud Mostafa**
 Electrical Engineering, Communications and Electronics student
 
-* 🔗 [تواصل معي عبر منصة لينكد إن](https://www.linkedin.com/in/ahmed-mahmoud-74983a31a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* 🔗 [linkedin](https://www.linkedin.com/in/ahmed-mahmoud-74983a31a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ### 📜 License
 هذا التوثيق مفتوح المصدر ومتاح لدعم الزملاء والطلاب في المجال الهندسي لتبادل المعرفة ونقل الخبرات العملية.
