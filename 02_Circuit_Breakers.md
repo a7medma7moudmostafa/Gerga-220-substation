@@ -22,7 +22,7 @@
 * **الأمان:** يمكن لمس الغلاف الخارجي بأمان تام أثناء التشغيل.
 * **الميزة:** تدعم خاصية الفصل أحادي القطب (`Single-pole tripping`) لوجود ميكانيزم تشغيل منفصل أسفل كل فازة.
 
-*(![Dead-Tank CB](assets/dead_tank_cb.jpg))*
+*![Dead-Tank CB](assets/dead_tank_cb.jpg)*
 
 ---
 
