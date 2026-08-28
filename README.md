@@ -1,4 +1,3 @@
-
 # ⚡محطة محولات جرجا (220 كيلوفولت)
 
 <div dir="ltr" align="center">
@@ -12,6 +11,15 @@
 </div>
 <br>
 
+<div dir="ltr">
+
+### 🔍 What You Will Find
+This repository documents the practical field training at Gerga 220kV Substation.
+It covers the main equipment, protection systems, control systems, and auxiliary systems studied during the training, supported by field observations, technical explanations, notes, and photos.
+
+</div>
+
+<div dir="rtl">
 
 ### 📌 عن الريبو
 يُعد هذا المستودع توثيقاً هندسياً وعملياً شاملاً للتدريب الميداني الخاص بي في **محطة محولات جرجا (220/66/11 كيلوفولت)**. يهدف هذا العمل إلى ربط المفاهيم النظرية في هندسة القوى الكهربائية بالتطبيق العملي في أرض الموقع، من خلال تشريح معدات ساحة المفاتيح (`Switchyard`)، وتحليل أنظمة الوقاية (`Protection Systems`)، واستعراض غرف التحكم (`Control Rooms`).
@@ -39,16 +47,25 @@
  
 </div>
 
-
 ---
 
-### (About the Author 👨‍💻 )
+<div dir="ltr">
+
+### ⚠️ Disclaimer
+This repository is intended for educational and documentation purposes.
+The information presented is based on the training sessions, field observations, and personal notes.
+
+### 👨‍💻 About the Author
 **Ahmed Mahmoud Mostafa**
 Electrical Engineering, Communications and Electronics student
 
-* 🔗 [linkedin](https://www.linkedin.com/in/ahmed-mahmoud-74983a31a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-mahmoud-74983a31a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-### 📜 License
+</div>
+
+<div dir="rtl">
+
+### 📜License
 هذا التوثيق مفتوح المصدر ومتاح لدعم الزملاء والطلاب في المجال الهندسي لتبادل المعرفة ونقل الخبرات العملية.
 
 </div>
